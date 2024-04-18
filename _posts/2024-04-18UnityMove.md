@@ -2,8 +2,8 @@
 layout: single
 title: "[Unity] 플레이어 이동"
 ---
- 
- # [Unity] 플레이어 이동
+
+# [Unity] 플레이어 이동
 
 ## transform.position
 
@@ -13,4 +13,3 @@ title: "[Unity] 플레이어 이동"
 ## transform.Translate()
 - Translate()는 Vector3로 값을 지정 할 수 있습니다.
 - Translate()는 **방향**으로 이동합니다.
-
