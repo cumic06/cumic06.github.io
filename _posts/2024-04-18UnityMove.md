@@ -9,6 +9,9 @@ title: "[Unity] 플레이어 이동"
 
  - position은 Vector3로 값을 지정 할 수 있습니다.
  - position은 **위치**로 이동합니다.
+ > position = new Vecot3()
+
+ > position += new Vector3() 모두 가능합니다
 
 ## transform.Translate()
 - Translate()는 Vector3로 값을 지정 할 수 있습니다.
