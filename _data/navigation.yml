@@ -4,7 +4,7 @@ main:
     url: /categories/
   - title: "Tag"
     url: /tags/
-    
+
 docs:
   - title: "목차"
     children:
