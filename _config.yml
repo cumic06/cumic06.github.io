@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "cumic06"
-  avatar           : "/assets/images/Profile.jpg"
+  avatar           : "Images/Profile.jpg"
   bio              : "cumic의 개발 블로그입니다!"
   location         : "South Korea"
   email            : #changhwan060224@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:changhwan060224@email.com"
+      url: #"mailto:changhwan060224@email.com"
     - label: "Notion"
       icon: "fas fa-fw fa-link"
       url: https://www.notion.so/c43c8f39ce0149f79ba479ac548485c6?pvs=4
