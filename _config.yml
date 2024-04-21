@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "cumic06"
-  avatar           : "Images/Profile.jpg"
+  avatar           : "assets/Images/Profile.jpg"
   bio              : "cumic의 개발 블로그입니다!"
   location         : "South Korea"
   email            : #changhwan060224@gmail.com
