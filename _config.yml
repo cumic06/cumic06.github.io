@@ -16,7 +16,7 @@ minimal_mistakes_skin    :  "dark"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "cumic개발 블로그"
+title                    : "쿠믹개발 블로그"
 title_separator          : "|"
 subtitle                 : "Developer"
 name                     : "cumic"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "cumic06"
+  name             : "쿠믹"
   avatar           : "assets/Images/IProfile.jpg"
-  bio              : "cumic의 개발 블로그입니다!"
+  bio              : "쿠믹의 개발 블로그입니다!"
   location         : "South Korea"
   email            : #changhwan060224@gmail.com
   links:
