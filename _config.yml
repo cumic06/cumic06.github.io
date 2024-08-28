@@ -116,7 +116,7 @@ author:
     # - label: "Notion"
       # icon: "fas fa-fw fa-book"
       # url: https://judicious-count-94f.notion.site/27e9ef76db0645cf9d7dd0258e98393d?pvs=4
-    - label: "GitHubLink"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cumic06"
     # - label: "Instagram"
